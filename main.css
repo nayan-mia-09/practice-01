@@ -7,3 +7,57 @@
 a:link {
     text-decoration: none;
   }
+.card-1{
+    box-sizing: border-box;
+    height: 50vh;
+    margin: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    background: antiquewhite;
+    text-align: start;
+    margin-top: 50px;
+}
+
+.bg-card-1{
+   margin-top: 65px;
+   background: aliceblue;
+   border:none;
+   border-radius: 10px;
+   padding: 10px;
+}
+
+.btn-1 {
+    border: none;
+    background: rgb(223, 104, 104);
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+.btn-2{
+    border: none;
+    background: rgb(223, 104, 104);
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .btn-1:hover{
+    background: red;
+  }
+  
+  
+  .btn-2:hover{
+    background: red;
+  }
